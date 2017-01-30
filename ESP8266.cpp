@@ -1,3 +1,8 @@
+/**
+Author : Alex Waine 
+Website : alexwaine.co.uk
+**/
+
 #include <Arduino.h>
 #include <ESP8266.h>
 #include <string.h>

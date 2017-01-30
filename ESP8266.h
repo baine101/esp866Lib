@@ -1,3 +1,8 @@
+/**
+Author : Alex Waine 
+Website : alexwaine.co.uk
+**/
+
 #ifndef ESP8266_h
 #define ESP8266_h
 
